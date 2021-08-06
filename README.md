@@ -1,7 +1,3 @@
-# Basics Branch
+# Creating a React Application
 
-- JavaScript library used to create websites
-
-- Allows us to easily create Single Page Apps:
-
-  - sends a single HTML page to the browser
+- remember to use js react language mode...
