@@ -1,3 +1,1 @@
-# Creating a React Application
-
-- remember to use js react language mode...
+# Components & Templates Branch
