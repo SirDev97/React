@@ -19,3 +19,15 @@
 - React Dev Tools ( branch - 9 )
 
 - Outputting Lists ( branch - 10 )
+
+- Props ( branch - 11 )
+
+- Reusing Components ( branch - 12 )
+
+- Functions as Props ( branch - 13 )
+
+- useEffect Hook ( branch - 14 )
+
+- useEffect Dependencies( branch - 15 )
+
+- Using JSON Server( branch - 16 )
