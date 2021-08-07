@@ -31,3 +31,35 @@
 - useEffect Dependencies( branch - 15 )
 
 - Using JSON Server( branch - 16 )
+
+- Fetching Data with useEffect ( branch - 17 )
+
+- Conditional Loading Message ( branch - 18 )
+
+- Handling Fetch Errors ( branch - 19 )
+
+- Making a Custom Hook ( branch - 20 )
+
+- The React Router ( branch - 21 )
+
+- Exact Match Routes ( branch - 22 )
+
+- Router Links ( branch - 23 )
+
+- useEffect Cleanup ( branch - 24 )
+
+- Route Parameters ( branch - 25 )
+
+- Reusing Custom Hooks ( branch - 26 )
+
+- Controlled Inputs ( branch - 27 )
+
+- Submit Events ( branch - 28 )
+
+- Making a POST Request ( branch - 29 )
+
+- Programmatic Redirects ( branch - 30 )
+
+- Deleting Blogs ( branch - 31 )
+
+- 404 Pages ( branch - 32 )
