@@ -3,6 +3,7 @@ import BlogList from "./BlogList";
 
 const Home = () => {
   const [blogs, setBlogs] = useState(null);
+  const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
     fetch("http://localhost:5000/blogs")
@@ -12,14 +13,14 @@ const Home = () => {
       .then((data) => {
         console.log(data);
         setBlogs(data);
+        setIsLoading(false);
       });
   }, []);
 
   return (
     <div className="home">
-      {blogs && (
-        <BlogList blogs={blogs} title="All Blogs" /> // conditional templating
-      )}
+      {isLoading && <div>Loading...</div>}
+      {blogs && <BlogList blogs={blogs} title="All Blogs" />}
     </div>
   );
 };
